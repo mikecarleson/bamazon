@@ -1,5 +1,2 @@
-# bamazon
 
-[![Watch the video](https://i.imgur.com/XwA5S565gzI.png)](https://youtu.be/XwA5S565gzI)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwA5S565gzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XwA5S565gzI/0.jpg)](http://www.youtube.com/watch?v=XwA5S565gzI)
